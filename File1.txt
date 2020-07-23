@@ -1,8 +1,5 @@
 This is my First File For AZGitDemo.
 
-
-Adding second line .
-
 Added Third Line from Remote Server.
 
 Added Fourth Line of Content From Client Machine.
